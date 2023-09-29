@@ -6,5 +6,6 @@ Earth
  - Moon
 Mars
 Jupiter
+ - Europa
 Saturn
 
